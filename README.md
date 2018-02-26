@@ -6,7 +6,7 @@ Satan was impressed with the blockchain technology and decided to make Hell Coin
 * Materialistic – Satan and his disciples are materialistic. They love embracing pleasures.
 * Unmatchable speeds – Hell Coin gives you wings. No shit.
 
-Features of Hell Coin
+**Features of Hell Coin
 
 # Fast Like Hell
 Hell Coin is an ERC20 token which makes it hellish fast. Literally. God fearing people will be jealous of you.
@@ -18,6 +18,6 @@ Hell coin gives you unlimited wine, beer, whiskey, etc. Plus 24-hour club with a
 After buying Hell Coin, meals (and sex) are specifically brought to you by 53 virgins. This condition does not apply if you are a Judaist, Hindu or Buddhist.
 
 # Coin details
-Token address - 0x8e4bf12e472739ab62eb404c758423ca499cf94d
-Decimals - 8
-Symbol - HELL
+* Token address - 0x8e4bf12e472739ab62eb404c758423ca499cf94d
+* Decimals - 8
+* Symbol - HELL
