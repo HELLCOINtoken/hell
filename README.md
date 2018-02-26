@@ -18,6 +18,6 @@ Hell coin gives you unlimited wine, beer, whiskey, etc. Plus 24-hour club with a
 After buying Hell Coin, meals (and sex) are specifically brought to you by 53 virgins. This condition does not apply if you are a Judaist, Hindu or Buddhist.
 
 # Coin details
-* Token address - 0x8e4bf12e472739ab62eb404c758423ca499cf94d
+* Token address - 0x8e4Bf12e472739ab62Eb404c758423CA499Cf94D
 * Decimals - 8
 * Symbol - HELL
